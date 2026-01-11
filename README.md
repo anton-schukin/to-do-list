@@ -1,3 +1,3 @@
 # Day 1 - To-Do List
 
-Link: https://antonioooooooooooo.github.io/to-do-list/
+Link: https://anton-schukin.github.io/to-do-list/
